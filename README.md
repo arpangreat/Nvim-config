@@ -1,4 +1,4 @@
 # Nvim-config
-# A Backup for nvin configuration
+# A Backup for nvim configuration
 # Because I love my Config more than anything
 
